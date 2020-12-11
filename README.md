@@ -2,6 +2,11 @@
   🚩 FastImage
 </h1>
 
+### 备注
+
+- 此分支用于解决 RN 0.63.3 版本中 ios 部分 plus 手机 webp 不显示的问题
+- 使用 5.4.2 版本做为基础，拷贝 7.0.0 版本中的 build.gradle
+
 <div align="center">
 
 Performant React Native image component.
